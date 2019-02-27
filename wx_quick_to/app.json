@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/help/help",
+    "pages/support/support",
+    "pages/me/me"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/help/help",
+        "text": "求助"
+      },
+      {
+        "pagePath": "pages/support/support",
+        "text": "帮助"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的"
+      }
+    ]
+  }
+}
